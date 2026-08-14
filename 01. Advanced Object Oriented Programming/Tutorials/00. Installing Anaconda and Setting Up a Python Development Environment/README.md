@@ -123,14 +123,15 @@ If both commands work, the installation was successful.
 
 Jupyter Notebook is one of the most popular tools for learning Python. It is a good idea to type your code in Jupyter Notebook as a learner. 
 
-Type ```Anaconda Navigator``` in you start menu search box (in Windows) and press enter to open the Anaconda Navigator. You will see something like ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Anaconda%20Navigator.png) and click on Jupyter Notebook to Launch it. 
+Type ```Anaconda Navigator``` in you start menu search box (in Windows) and press enter to open the Anaconda Navigator. You will see something like: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Anaconda%20Navigator.png) and click on Jupyter Notebook to Launch it. 
 
-This will open the localhost in your browser and you will see ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Localhost.png), click on ```New``` Dropdown arrow and then click on ```Python [conda env.base]*```. This will open the New Jupyter Notebook page like ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Jupyter%20Notebook.png).
+This will open the localhost in your browser and you will see: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Localhost.png) click on ```New``` Dropdown arrow and then click on ```Python [conda env.base]*```. This will open the New Jupyter Notebook page like: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Jupyter%20Notebook.png)
 
 On the right hand side of the Jupyter Notebook you will see Anaconda Assistant where you can chat to get help on your code or if there is any error due to code fault. You will write code in the cell where I typed ```print('hello world')``` and run. There are a few nice keyboard shortcuts to run code and add/delete/move cells in the Jupyter Notebook. 
 
 
 # **Jupyter Notebook shortcuts**
+(for Windows only, Google to see what shortcuts are required for Mac/Linux systems)
 
 -- Ctrl + Shift + Enter run the current cell, select below
 
