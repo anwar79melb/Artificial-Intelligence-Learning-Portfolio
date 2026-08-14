@@ -42,7 +42,7 @@ By completing this tutorial, you should be able to:
 -- Understand why Python is widely used in modern software development.
 
 
-W## hy Do We Need Object-Oriented Programming?
+## Why Do We Need Object-Oriented Programming?
 
 Imagine you are building software for a furniture store.
 
@@ -121,5 +121,102 @@ Behaviours → Methods
 Image Credit: Gemini
 
 
+Consider the following scenario.
+
+A customer enters a furniture store and asks:
+
+```Can I order this chair?```
+
+A salesperson responds:
+
+```Certainly. The price is $99.```
+
+Immediately we can identify two objects
+
+```
+Customer
+SalesPerson
+```
+Each object has information and actions.
+
+
+### Customer
+
+#### Attributes
+```
+Name
+Address
+Budget
+```
+
+#### Behaviours
+```
+Place Order
+Browse Products
+Make Payment
+```
+
+### SalesPerson
+
+#### Attributes
+```
+Name
+Employee ID
+Commission
+```
+
+#### Behaviours
+```
+Take Order
+Issue Receipt
+Update Inventory
+```
+
+
+### Objects Have Identity
+
+Even when two objects belong to the same category, they remain unique.
+
+For example:
+```
+Customer A
+Customer B
+```
+
+Both are customers, but they have different values.
+
+| Attribute | Customer A  | Customer B |
+| --------- | ----------- | ---------- |
+| Name      | Alamin        | Mishu      |
+| Address   | Empire St | King St   |
+| Budget    | $3000       | $2000      |
+
+
+The category is the same.
+
+The data is different.
+
+
+## What Is a Class?
+
+Suppose a software system contains thousands of customers.
+
+Creating each customer from scratch would be inefficient.
+
+Instead, we define a blueprint called a class.
+
+Think about constructing houses.
+
+The blueprint is created once.
+
+Many houses can then be built using that blueprint.
+
+```
+Blueprint = Class
+Actual House = Object
+```
+
+### Illustration ![imaginaryImage](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Gemini_Generated_Image_tdcps4tdcps4tdcp.jpg)
+Credit: Gemini
 
 
