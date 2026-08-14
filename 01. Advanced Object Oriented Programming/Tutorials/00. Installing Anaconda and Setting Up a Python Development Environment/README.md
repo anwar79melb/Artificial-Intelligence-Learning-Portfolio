@@ -125,7 +125,7 @@ Jupyter Notebook is one of the most popular tools for learning Python. It is a g
 
 Type ```Anaconda Navigator``` in you start menu search box (in Windows) and press enter to open the Anaconda Navigator. You will see something like: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Anaconda%20Navigator.png) and click on Jupyter Notebook to Launch it. 
 
-This will open the localhost in your browser and you will see: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Localhost.png) click on ```New``` Dropdown arrow and then click on ```Python [conda env.base]*```. This will open the New Jupyter Notebook page like: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Jupyter%20Notebook.png)
+This will open the localhost in your browser and you will see: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Localhost.png) click on ```New``` Dropdown arrow on the top-right side and then click on ```Python [conda env.base]*```. This will open the New Jupyter Notebook page like: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Jupyter%20Notebook.png)
 
 On the right hand side of the Jupyter Notebook you will see Anaconda Assistant where you can chat to get help on your code or if there is any error due to code fault. You will write code in the cell where I typed ```print('hello world')``` and run. There are a few nice keyboard shortcuts to run code and add/delete/move cells in the Jupyter Notebook. 
 
@@ -205,6 +205,8 @@ On the right hand side of the Jupyter Notebook you will see Anaconda Assistant w
 
 -- Ctrl + Right go one word right
 
+
+
 -- Ctrl + Shift + P open the command palette
 
 -- Down move cursor down
@@ -213,3 +215,12 @@ On the right hand side of the Jupyter Notebook you will see Anaconda Assistant w
 
 
 **Play with these shortcuts to see which shortcut you want to use more often. If you are a beginner, it is recommended to type your code instead of copy/paste.** 
+
+
+# **A nice alternative to Jupyter Notebook is Google/Colab which is truly online and gives the opportunity of using dedicated GPU to run Deep Learning models.**
+
+**Steps:** 
+1. You need to have a Google/gmail account
+2. type: https://colab.research.google.com/ in the address bar of your browser. You will see: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Colab.png) Click on ```+ New Notebook```
+3. Once clicked on ```+ New Notebook``` will open a notebook similar to Jupyter Notebook where we can type and run code: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Colab%20Notebook.png)
+4. If you need a dedicated free GPU to run your model, click on ```Edit``` from the top menu of the Colab Notebook, then click on ```Notebook Settings```  then click on available GPUs (such as T4 GPU or v5e-1 TPU) and save. ![colabgpu](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/colab%20notebook%20gpu.png)
