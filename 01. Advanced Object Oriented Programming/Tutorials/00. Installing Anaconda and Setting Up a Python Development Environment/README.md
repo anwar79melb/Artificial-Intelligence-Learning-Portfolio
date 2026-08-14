@@ -123,6 +123,6 @@ If both commands work, the installation was successful.
 
 Jupyter Notebook is one of the most popular tools for learning Python. It is a good idea to type your code in Jupyter Notebook as a learner. 
 
-Type ```Anaconda Navigator``` in you start menu search box (in Windows) and press enter to open the Anaconda Navigator. You will see something like [this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/images/image.png) and click on Jupyter Notebook to Launch it. 
+Type ```Anaconda Navigator``` in you start menu search box (in Windows) and press enter to open the Anaconda Navigator. You will see something like ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/images/image.png) and click on Jupyter Notebook to Launch it. 
 
 
