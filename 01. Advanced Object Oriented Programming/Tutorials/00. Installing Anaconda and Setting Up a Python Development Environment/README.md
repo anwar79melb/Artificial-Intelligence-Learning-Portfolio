@@ -88,7 +88,41 @@ For AI-related work, Anaconda is generally the more convenient option.
 
 # **Step 1: Download Anaconda**
 
-Visit the official Anaconda [website](https://www.anaconda.com/download), choose the installer that matches your operating system. Examples: Windows 64-bit, macOS, Linux. Always download a recent Python 3 version unless a project specifically requires an older release. Follow the installation instructions. 
+Visit the official Anaconda [website](https://www.anaconda.com/download), you may need to free signup/sign in to proceed, choose the installer that matches your operating system. Examples: Windows 64-bit, macOS, Linux. 
 
+**Always download a recent Python 3.X version** unless a project specifically requires an older release. 
+
+Follow the installation instructions. 
+
+Choose the default installation location. 
+
+**Advanced Options**
+You may see options such as:
+```
+Add Anaconda to PATH
+Register Anaconda as default Python
+```
+Recommended:
+
+✅ Register Anaconda as default Python
+
+⚠ Avoid modifying PATH unless you understand the implications.
+
+**Complete Installation: Click ```Install```
+
+# **Step 2: Verify Installation**
+Open ```Anaconda Prompt```, then enter ```python --version```
+
+Expected output: ```Python 3.x.x```
+
+Next, check Conda: ```conda --version```, expected output: ```conda 24.x.x```
+
+If both commands work, the installation was successful.
+
+# **Step 3: Launching Jupyter Notebook***
+
+Jupyter Notebook is one of the most popular tools for learning Python. It is a good idea to type your code in Jupyter Notebook as a learner. 
+
+Type ```Anaconda Navigator``` in you start menu search box (in Windows) and press enter to open the Anaconda Navigator. You will see something like [this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/images/image.png) and click on Jupyter Notebook to Launch it. 
 
 
