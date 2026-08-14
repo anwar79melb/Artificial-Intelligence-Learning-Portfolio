@@ -123,6 +123,92 @@ If both commands work, the installation was successful.
 
 Jupyter Notebook is one of the most popular tools for learning Python. It is a good idea to type your code in Jupyter Notebook as a learner. 
 
-Type ```Anaconda Navigator``` in you start menu search box (in Windows) and press enter to open the Anaconda Navigator. You will see something like ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/images/image.png) and click on Jupyter Notebook to Launch it. 
+Type ```Anaconda Navigator``` in you start menu search box (in Windows) and press enter to open the Anaconda Navigator. You will see something like ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Anaconda%20Navigator.png) and click on Jupyter Notebook to Launch it. 
+
+This will open the localhost in your browser and you will see ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Localhost.png), click on ```New``` Dropdown arrow and then click on ```Python [conda env.base]*```. This will open the New Jupyter Notebook page like ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Jupyter%20Notebook.png).
+
+On the right hand side of the Jupyter Notebook you will see Anaconda Assistant where you can chat to get help on your code or if there is any error due to code fault. You will write code in the cell where I typed ```print('hello world')``` and run. There are a few nice keyboard shortcuts to run code and add/delete/move cells in the Jupyter Notebook. 
 
 
+# **Jupyter Notebook shortcuts**
+
+-- Ctrl + Shift + Enter run the current cell, select below
+
+-- Alt + Enter run the current cell, insert below
+
+-- Ctrl + S save and checkpoint
+
+
+**To exit the code/edit mode, press ```Esc``` from you keyboard (located on the top left of your keyboard).** Once the ```Esc``` is pressed the cell will enter into command mode. 
+
+## **The following shortcuts are handy in Command mode:** 
+
+-- Enter take you into edit mode
+
+-- H show all shortcuts
+
+-- Up select cell above
+
+-- Down select cell below
+
+-- Shift + Up extend selected cells above
+
+-- Shift + Down extend selected cells below
+
+-- A insert cell above
+
+-- B insert cell below
+
+-- X cut selected cells
+
+-- C copy selected cells
+
+-- V paste cells below
+
+-- Shift + V paste cells above
+
+-- D, D (press the key twice) delete selected cells
+
+-- Z undo cell deletion
+
+-- S Save and Checkpoint
+
+-- Y change the cell type to Code
+
+-- M change the cell type to Markdown
+
+
+## **While in edit mode (press ```Enter``` to activate)**
+
+-- Esc take you into command mode
+
+-- Tab code completion or indent
+
+-- Shift + Tab tooltip
+
+-- Ctrl + ] indent
+
+-- Ctrl + [ dedent
+
+-- Ctrl + A select all
+
+-- Ctrl + Z undo
+
+-- Ctrl + Shift + Z or Ctrl + Y redo
+
+-- Ctrl + Home go to cell start
+
+-- Ctrl + End go to cell end
+
+-- Ctrl + Left go one word left
+
+-- Ctrl + Right go one word right
+
+-- Ctrl + Shift + P open the command palette
+
+-- Down move cursor down
+
+-- Up move cursor up
+
+
+**Play with these shortcuts to see which shortcut you want to use more often. If you are a beginner, it is recommended to type your code instead of copy/paste.** 
