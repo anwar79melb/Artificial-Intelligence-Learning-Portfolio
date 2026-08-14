@@ -221,8 +221,11 @@ On the right hand side of the Jupyter Notebook you will see Anaconda Assistant w
 
 **Steps:** 
 1. You need to have a Google/gmail account
+
 2. type: https://colab.research.google.com/ in the address bar of your browser. You will see: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Colab.png) Click on ```+ New Notebook```
+
    
 3. Once clicked on ```+ New Notebook``` will open a notebook similar to Jupyter Notebook where we can type and run code: ![this](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Colab%20Notebook.png)
+
 
 4. If you need a dedicated free GPU to run your model, click on ```Edit``` from the top menu of the Colab Notebook, then click on ```Notebook Settings```  then click on available GPUs (such as T4 GPU or v5e-1 TPU) and save. ![colabgpu](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/colab%20notebook%20gpu.png)
