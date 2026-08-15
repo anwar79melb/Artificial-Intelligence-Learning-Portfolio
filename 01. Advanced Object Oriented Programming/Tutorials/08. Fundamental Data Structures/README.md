@@ -1149,4 +1149,4 @@ Stacks and queues are among the most important foundational data structures and 
 
 # Next Tutorial
 
-In **Tutorial 09: Design Patterns and File Operations**, we will explore reusable software design solutions and learn how Python applications interact with external files for persistent data storage.
+In **Tutorial 09: Design Patterns and File Handling**, we will explore reusable software design solutions and learn how Python applications interact with external files for persistent data storage.
