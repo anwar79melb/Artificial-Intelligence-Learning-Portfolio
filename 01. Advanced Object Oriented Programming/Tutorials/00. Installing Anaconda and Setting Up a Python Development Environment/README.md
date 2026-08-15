@@ -97,6 +97,7 @@ Follow the installation instructions.
 Choose the default installation location. 
 
 **Advanced Options**
+
 You may see options such as:
 ```
 Add Anaconda to PATH
