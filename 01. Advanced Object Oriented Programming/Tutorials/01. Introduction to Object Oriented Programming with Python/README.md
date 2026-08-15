@@ -219,4 +219,187 @@ Actual House = Object
 ### Illustration ![imaginaryImage](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Gemini_Generated_Image_tdcps4tdcps4tdcp.jpg)
 Credit: Gemini
 
+## Objects and Classes
+
+Consider the following customer class.
+
+```
+class Customer:
+
+    pass
+```
+
+The class defines a category.
+
+Creating actual customers:
+
+```
+customer1 = Customer()
+customer2 = Customer()
+```
+
+Now we have two separate objects.
+
+
+## The Three Pillars of Object-Oriented Programming
+
+Most object-oriented systems rely on three major concepts.
+
+
+## 1. Encapsulation
+
+Encapsulation means grouping data and operations together.
+
+Instead of exposing everything, objects provide controlled access to their information.
+
+Think of an ATM.
+
+You know how to:
+```
+Withdraw Money
+Check Balance
+Deposit Money
+```
+
+You do not need to know:
+```
+Database Design
+Network Communication
+Security Protocols
+```
+The complexity remains hidden. 
+
+Users interact only through the public interface.
+![imaginaryDesign](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Gemini_Generated_Image_p3n4hep3n4hep3n4.jpg)
+Credit: Gemini
+
+
+## 2. Inheritance
+
+Inheritance allows one class to build upon another.
+
+Example:
+```
+Person
+```
+
+could be a general category.
+
+More specific categories:
+```
+Student
+Teacher
+Employee
+```
+
+All share common characteristics:
+```
+Name
+Email
+Address
+```
+
+Instead of repeating code, subclasses inherit from a parent class.
+
+
+Illustration ![imaginaryImage](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Gemini_Generated_Image_classroom.jpg)
+Credit: Gemini
+
+
+This relationship is often called:
+```
+IS-A Relationship
+```
+
+Examples:
+```
+Student IS-A Person
+Teacher IS-A Person
+```
+
+
+## 3. Polymorphism
+
+Polymorphism means one interface can support multiple forms.
+
+Imagine a Shape class.
+
+Every shape knows how to calculate its area.
+
+```
+shape.get_area()
+```
+
+
+Different shapes calculate the result differently.
+```
+Circle
+Rectangle
+Triangle
+```
+
+Same method.
+
+Different implementation.
+
+Illustration ![imaginaryPolymorphism](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Gemini_Generated_Image_Polymorphism.jpg)
+Credit: Gemini
+
+
+# Advantages of Object-Oriented Programming
+
+Object-oriented design offers several advantages.
+
+
+## Reusability
+
+Well-designed classes can be reused across projects.
+
+Example:
+```
+Customer Class
+```
+
+can appear in:
+
+- banking systems
+
+- e-commerce sites
+
+- appointment booking systems
+
+
+## Modularity
+
+Applications can be divided into smaller components.
+
+Instead of one enormous file:
+```
+Customer Module
+Order Module
+Payment Module
+Inventory Module
+```
+
+## Maintainability
+
+Changes become easier.
+
+If a bug exists in:
+```
+Customer
+```
+we know exactly where to look.
+
+
+## Scalability
+
+Object-oriented systems tend to expand more gracefully as requirements grow.
+
+
+
+
+
+
+
 
