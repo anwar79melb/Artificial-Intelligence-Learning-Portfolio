@@ -115,7 +115,7 @@ Affected Routes
 Competitors
 ```
 
-and store the information in a structured database. 【1-88d031】
+and store the information in a structured database.
 
 ---
 
