@@ -1,13 +1,15 @@
 # **Artificial-Intelligence-Learning-Portfolio**
 
-![representativeImage](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Course%20overview_Gemini_Generated_Image.jpg)
-Photo credit: Gemini
-
 Welcome to my Artificial Intelligence Learning Portfolio.
 
 This repository documents my learning journey through advanced software development, machine learning, deep learning, natural language processing, and data mining. While the content is inspired by topics explored during my Graduate Certificate in Artificial Intelligence, the tutorials, explanations, notes, examples, and projects have been reorganized, rewritten, and expanded based on my own understanding and practical experimentation.
 The primary objective of this repository is to transform academic learning into practical knowledge that can help students, developers, and professionals learn modern AI-related technologies through structured tutorials and hands-on examples.
 Each section focuses on both theoretical understanding and real-world implementation, emphasizing problem solving, software engineering practices, model development, data analysis, and responsible AI development.
+
+![representativeImage](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/01.%20Advanced%20Object%20Oriented%20Programming/Images/Course%20overview_Gemini_Generated_Image.jpg)
+Photo credit: Gemini
+
+
 
 ## **Repository Objectives**
 The purpose of this repository is to:
