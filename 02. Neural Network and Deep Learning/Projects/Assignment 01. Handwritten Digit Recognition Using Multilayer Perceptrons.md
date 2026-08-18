@@ -1,4 +1,4 @@
-# Assignment 01: Handwritten Digit Recognition Using Multilayer Perceptrons
+# Project 01: Handwritten Digit Recognition Using Multilayer Perceptrons
 
 ## Module
 
