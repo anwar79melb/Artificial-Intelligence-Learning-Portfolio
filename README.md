@@ -109,6 +109,8 @@ This section investigates how computers understand, process, and generate human 
 
 ## **4. Data Warehousing and Mining**
 
+![machingLearningMindMap](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/04.%20Data%20Warehousing%20and%20Mining/Images/Machine_Learning_Mind_Map.jpg)
+
 This section focuses on turning raw data into meaningful insights through data storage, preparation, exploration, and predictive modelling techniques.
 
 **Topics include:**
