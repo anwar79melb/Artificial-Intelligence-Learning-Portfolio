@@ -47,7 +47,7 @@ Data Warehousing and Data Mining provide the technological and analytical founda
 The course follows a complete analytics lifecycle. 
 
 
-![graphicalImage](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/04.%20Data%20Warehousing%20and%20Mining/Images/Analytical%20Tree.png)
+![graphicalImage](https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/blob/main/04.%20Data%20Warehousing%20and%20Mining/Images/Machine_Learning_Mind_Map.jpg)
 
 
 ```text
