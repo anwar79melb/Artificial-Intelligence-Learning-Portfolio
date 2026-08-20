@@ -39,12 +39,10 @@ The portfolio reflects both theoretical understanding and practical implementati
 
 # Portfolio Journey
 
-## 1. Library Management System
+# Repository Link for Project 1: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/01.%20Advanced%20Object%20Oriented%20Programming/Projects
+## Course: Advanced Object-Oriented Programming
 
-### Project Repository Link: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/01.%20Advanced%20Object%20Oriented%20Programming/Projects
-
-### Course
-Advanced Object-Oriented Programming
+## Project 1. Library Management System
 
 ### Project Focus
 
@@ -80,12 +78,10 @@ Developed a robust and extensible software solution demonstrating how well-desig
 
 ---
 
-## 2. Handwritten Digit Recognition Using Neural Networks
+# Repository Link for Project 2 and 3: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/02.%20Neural%20Network%20and%20Deep%20Learning/Projects
+## Course: Neural Networks and Deep Learning
 
-### Project Repository Link: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/02.%20Neural%20Network%20and%20Deep%20Learning/Projects
-
-### Course
-Neural Networks and Deep Learning
+## Project 2. Handwritten Digit Recognition Using Neural Networks
 
 ### Project Focus
 
@@ -137,12 +133,7 @@ Demonstrated how optimisation strategies, regularisation techniques, and archite
 
 ---
 
-## 3. Vehicle Recognition for Road Safety Monitoring
-
-### Project Repository Link: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/02.%20Neural%20Network%20and%20Deep%20Learning/Projects
-
-### Course
-Neural Networks and Deep Learning
+## Project 3. Vehicle Recognition for Road Safety Monitoring
 
 ### Project Focus
 
@@ -200,12 +191,10 @@ Demonstrated the importance of matching neural network architecture to data stru
 
 ---
 
-## 4. Deep Learning-Based Sentiment Analysis on Twitter Airline Reviews
+# Repository Link for Project 4 and 5: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/03.%20Applied%20Natural%20Language%20Processing/Projects
+## Course: Applied Natural Language Processing
 
-### Project Repository Link: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/03.%20Applied%20Natural%20Language%20Processing/Projects
-
-### Course
-Applied Natural Language Processing
+## Project 4. Deep Learning-Based Sentiment Analysis on Twitter Airline Reviews
 
 ### Project Focus
 
@@ -270,12 +259,7 @@ Demonstrated how gating mechanisms improve handling of noisy text and long-range
 
 ---
 
-## 5. Deep Learning-Based Question Answering System
-
-### Project Repository Link: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/03.%20Applied%20Natural%20Language%20Processing/Projects
-
-### Course
-Applied Natural Language Processing
+## Project 5. Deep Learning-Based Question Answering System
 
 ### Project Focus
 
@@ -326,12 +310,10 @@ Demonstrated a complete deep learning-based reading comprehension system and pro
 
 ---
 
-## 6. Health Dataset Analysis and Prediction
+# Repository Link for Project 6: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/04.%20Data%20Warehousing%20and%20Mining/Projects
+## Course: Data Warehousing and Mining
 
-### Project Repository Link: https://github.com/anwar79melb/Artificial-Intelligence-Learning-Portfolio/tree/main/04.%20Data%20Warehousing%20and%20Mining/Projects
-
-### Course
-Data Warehousing and Mining
+## Project 6. Health Dataset Analysis and Prediction
 
 ### Project Focus
 
